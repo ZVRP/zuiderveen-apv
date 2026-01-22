@@ -420,7 +420,7 @@ Brake checken is toegestaan indien realistisch. Dit is op eigen risico - geen re
 
 #### 16.6 - Voertuigen achterlaten
 
-Het achterlaten van auto's, vaartuigen en heli's/vliegtuigen is niet toegestaan. Straf: in-game boete (afhankelijk van je geldbedrag). Zie [Delfines](./informatie.html#delfines) voor meer informatie.
+Het achterlaten van auto's, vaartuigen en heli's/vliegtuigen is niet toegestaan. Straf: in-game boete (afhankelijk van je geldbedrag). Zie [Delfines](./informatie.md#delfines) voor meer informatie.
 
 ### **Artikel 17: GTA Style Driving (Strafcategorie: 1)**
 
