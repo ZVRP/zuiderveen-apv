@@ -11,7 +11,6 @@
 - **Categorie 6** – Ban van 1 week
 - **Categorie 7** – Ban van 1 maand
 - **Categorie 8** – Account-wipe (account wordt helemaal gereset)
-  ➥ Hier kan ook beslist worden een account wipe te doen.
 - **Categorie 9** – Permanente ban (Niet meer welkom)  
 
 
