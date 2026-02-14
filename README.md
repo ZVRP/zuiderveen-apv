@@ -9,6 +9,7 @@ Deze repository bevat de Algemene Plaatselijke Verordening (APV) voor  ZuiderVee
 - `docs/straffen.md` – strafmaat en maatregelen
 - `docs/offroad.md` – offroad-beleid
 - `docs/informatie.md` – aanvullende informatie
+- `docs/wetboek.md` – Officieel wetboek
 
 ## Bijdragen
 

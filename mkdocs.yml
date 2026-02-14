@@ -7,6 +7,7 @@ nav:
   - Informatie: informatie.md
   - Regels: regels.md
   - Straffen: straffen.md
+  - Wetboek: wetboek.md
 theme:
   name: material
   language: nl
