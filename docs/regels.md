@@ -639,7 +639,7 @@ Bij overtreding volgt de daarvoor bestemde strafcategorie. Bij herhaling wordt d
 
 #### 32.2 - Limieten
 
-Bovenwereld gerelateerde scams hebben een limiet van **€30.000**.
+Bovenwereld gerelateerde scams hebben een limiet van **€30.000,-**.
 
 #### 32.3 - Eigen verantwoordelijkheid
 
@@ -717,7 +717,7 @@ De **MazeBank Arena** overval valt onder type "Grote Bank".
 #### 34.1 - Rippen algemeen
 
 - Niet op dezelfde locatie (500m) rippen binnen 30 minuten
-- Max. **€10.000** rippen (zwart of wit geld)
+- Max. **€10.000,-** rippen (zwart of wit geld)
 - Max. **20 items** rippen bij overval met wapen
 - Geen limiet op wapens, attachments en kogels
 
@@ -799,9 +799,9 @@ Zie de [Gang-regels](https://discordapp.com/channels/777512381688709200/77751598
 | Regel | Limiet |
 | --- | --- |
 | Max. ontvoeringstijd | 90 minuten |
-| Max. eis per burger | €30.000 |
-| Max. eis per agent | €50.000 |
-| Max. totaal politie mag geven | €500.000 |
+| Max. eis per burger | €30.000,-|
+| Max. eis per agent | €50.000,-|
+| Max. totaal politie mag geven | €500.000,-|
 
 ### **Artikel 37: Onder dreiging houden (Strafcategorie: 3)**
 
@@ -1103,7 +1103,7 @@ De naam van een andere speler in je steamnaam gebruiken is verboden.
 | Item | Eiland | Vasteland |
 | --- | --- | --- |
 | Zakjes | 75 per persoon | 20 per persoon |
-| Zwart geld | €30.000 | €10.000 |
+| Zwart geld | €30.000,-| €10.000,-|
 
 *Geen witgeld rippen, ook niet laten pinnen.*
 

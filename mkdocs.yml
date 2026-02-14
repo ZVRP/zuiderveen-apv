@@ -8,6 +8,7 @@ nav:
   - Regels: regels.md
   - Straffen: straffen.md
   - Wetboek: wetboek.md
+  - Kostenlijst: kostenlijst.md
 theme:
   name: material
   language: nl
