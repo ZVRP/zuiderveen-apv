@@ -120,7 +120,7 @@
 | Diefstal met geweld tweede veroordeling | €25.000,- |
 | Diefstal met geweld derde veroordeling | €30.000,- |
 
-### **Grootmisdrijf**
+### **Groot misdrijf**
 
 | Feit | Boete bedrag |
 | :---- | :---: |
