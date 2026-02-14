@@ -1,8 +1,4 @@
-Wetboek ZuiderVeen
-
-WETBOEK ZUIDERVEEN
-
-Wetboek ZuiderVeen
+# Wetboek ZuiderVeen
 
 Alle wetten en regels zijn van toepassing binnen ZuiderVeen. Bij verandering van de regels na het tijdstip waarop de regels zijn overtreden, worden de voor de overtreder meest gunstige bepalingen toegepast. Aanpassingen zullen altijd publiekelijk worden aangepast en onderaan in het wetboek onder ‘aanpassingen wetgeving’ worden vermeld.
 
@@ -10,9 +6,7 @@ Alle vastgestelde regels in het wetboek staan ondergeschikt aan de vastgestelde 
 
 Dit wetboek is enkel voor recreatief gebruik binnen ZuiderVeen.
 
-# 
-
-# Artikellen
+### Artikelen
 
 **Algemene bepalingen** .................................................. 5  
  Artikel 2: Strafbepaling ................................................. 5  
