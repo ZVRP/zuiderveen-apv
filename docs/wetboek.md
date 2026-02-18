@@ -563,9 +563,18 @@ Hij die, zonder daartoe gerechtigd te zijn, zich op een anders grond waarvan de 
 
 - Wanneer uit onderzoek blijkt, volgend op de inbeslagname, zoals bedoeld in lid 2, geen criminele herkomst kan aantonen, dan is de ambtenaar gemaand tot restitutie.
 
-- Wanneer uit onderzoek blijkt, volgend op de inbeslagname zoals bedoeld in lid 2, criminele herkomst aantoont, dan zal de in beslag genomen som vernietigd worden. 
+- Wanneer uit onderzoek blijkt, volgend op de inbeslagname zoals bedoeld in lid 2, criminele herkomst aantoont, dan zal de in beslag genomen som vernietigd worden.
 
-### **Artikel 25: Terroristisch misdrijf (134a SR en 142a SR)**
+| Hoeveelheid | Taakstraf | Celstraf | Boete |
+| :---- | ----- | ----- | ----- |
+| €1 \- €5.000 | 5 uur |  | €7.500,- |
+| €5.001 \- €10.000 | 15 uur |  | €10.000,- |
+| €10.001 \-  €50.000 | 30 uur |  | €15.000,- |
+| €50.001 \- €150.000 | 50 uur | 15 maanden | €20.000,- |
+| €150.001 \- €300.000 | 60 uur | 25 maanden | €25.000,- |
+| €300.001 \+ | 80 uur | 40 maanden | €35.000,- |
+
+### **Artikel 26: Terroristisch misdrijf (134a SR en 142a SR)**
 
 Onder een terroristisch misdrijf of een terroristische daad wordt verstaan: het oogmerk om de bevolking, of een gedeelte daarvan, ernstige angst aan te jagen, dan wel een overheid of internationale organisatie op onrechtmatige wijze te dwingen iets te doen, na te laten of te dulden. Tevens valt hieronder het ernstig ontwrichten of vernietigen van de fundamentele politieke, constitutionele, economische of sociale structuren van een land of internationale organisatie.
 
